@@ -1,0 +1,53 @@
+#************************************************************************************************************************
+#
+#
+# ECE - 585 Microprocessor system design
+# README file for cache build project
+#
+#
+#************************************************************************************************************************
+#
+#________________________________________________________________________________________________________________________
+#  Run using a bash script
+#________________________________________________________________________________________________________________________
+#  >> source run.sh <TRACE_FILE_NAME>         ------> clean , build & run using "TRACE_FILE_NAME"   
+#
+#  >> source run_debug.sh <TRACE_FILE_NAME>   ------> clean , build & run using "TRACE_FILE_NAME" and DEBUG defined   
+#
+#  >> source run_silent.sh <TRACE_FILE_NAME>  ------> clean , build & run using "TRACE_FILE_NAME" and SILENT defined  
+#
+#
+# Results are captured in <TRACE_FILE_NAME>_result_timestamp file   
+#
+#
+#________________________________________________________________________________________________________________________
+# Manual compile and run options
+#________________________________________________________________________________________________________________________
+#
+# >> make clean                       -----> To remove previosuly created object files 
+# 
+# Project building 
+# >> make                             -----> To build the project
+# >> make CFLAGS=-DSILENT             -----> To build the project with define SILENT( no BusOp prints )
+# >> make CFLAGS=-DDEBUG              -----> To build the project with define DEBUG ( to get the all debug prints )
+#
+#
+# Execution 
+# >> ./cachebuild <TRACE_FILE_NAME>   -----> To run the L2 cache functionality using "TRACE_FILE_NAME" file as input file
+#
+# >> ./cachebuild <TRACE_FILE_NAME> > result_file   -----> To capture the result in a file
+#
+#
+#
+#
+#________________________________________________________________________________________________________________________
+# Trace file generation options
+#________________________________________________________________________________________________________________________
+#
+# >> ./gen_trace_all_addr.sh           ----> Generates trace file containing all sequential addresses 
+#
+# >> ./gen_trace_evict.sh              ----> Generates trace file to test eviction
+#
+# >> ./gen_trace_lru_test.sh           ----> Generates trace file to check LRU bits updation
+#
+#

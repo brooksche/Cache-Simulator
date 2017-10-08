@@ -1,0 +1,35 @@
+############################################################
+
+
+CC=gcc
+
+# compiler flags:
+#  -g    adds debugging information to the executable file
+#  -Wall turns on most, but not all, compiler warnings
+CFLAGS=-I.
+CFLAGS+= -g
+CFLAGS+= -Wall
+CFLAGS+= -O2
+
+LIBS=-lm
+
+OBJ_LRU_TEST = gen_trace_lru_test.c 
+OBJ_ALL_ADDR = gen_trace_all_addr.c 
+OBJ_EVICT = gen_trace_evict.c 
+
+%.o: %.c
+	$(CC) -c -o $@ $< $(CFLAGS)
+
+trace_lru_test: $(OBJ_LRU_TEST)
+	gcc -o $@ $^ $(CFLAGS)
+
+trace_all_addr: $(OBJ_ALL_ADDR)
+	gcc -o $@ $^ $(CFLAGS)
+
+trace_evict: $(OBJ_EVICT)
+	gcc -o $@ $^ $(CFLAGS)
+
+.PHONY: clean
+
+clean:
+	rm -f trace_evict trace_all_addr trace_lru_test

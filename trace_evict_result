@@ -1,0 +1,1470 @@
+
+Entering function main
+
+Entering function init_cache
+
+Entering function init_cache
+SETS = 32768 
+ ROWS_IN_SET = 8 
+ 
+Exiting function init_cache
+
+command : 0	 Address : 0x64
+Read request from L1 data cache	64
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+Exiting function check_in_cache
+
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 64, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x65
+Read request from L1 data cache	65
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x66
+Read request from L1 data cache	66
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x67
+Read request from L1 data cache	67
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x68
+Read request from L1 data cache	68
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x69
+Read request from L1 data cache	69
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x70
+Read request from L1 data cache	70
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x71
+Read request from L1 data cache	71
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x72
+Read request from L1 data cache	72
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x73
+Read request from L1 data cache	73
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x74
+Read request from L1 data cache	74
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x75
+Read request from L1 data cache	75
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x76
+Read request from L1 data cache	76
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x77
+Read request from L1 data cache	77
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x78
+Read request from L1 data cache	78
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x79
+Read request from L1 data cache	79
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x80
+Read request from L1 data cache	80
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+Exiting function check_in_cache
+
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 80, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x81
+Read request from L1 data cache	81
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x82
+Read request from L1 data cache	82
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x83
+Read request from L1 data cache	83
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x84
+Read request from L1 data cache	84
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x85
+Read request from L1 data cache	85
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x86
+Read request from L1 data cache	86
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x87
+Read request from L1 data cache	87
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x88
+Read request from L1 data cache	88
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x89
+Read request from L1 data cache	89
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x90
+Read request from L1 data cache	90
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x91
+Read request from L1 data cache	91
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x92
+Read request from L1 data cache	92
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x93
+Read request from L1 data cache	93
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x94
+Read request from L1 data cache	94
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x95
+Read request from L1 data cache	95
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x96
+Read request from L1 data cache	96
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x97
+Read request from L1 data cache	97
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x98
+Read request from L1 data cache	98
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x99
+Read request from L1 data cache	99
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x100
+Read request from L1 data cache	100
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+Exiting function check_in_cache
+
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 100, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x101
+Read request from L1 data cache	101
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x102
+Read request from L1 data cache	102
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x103
+Read request from L1 data cache	103
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x104
+Read request from L1 data cache	104
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x105
+Read request from L1 data cache	105
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x106
+Read request from L1 data cache	106
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x107
+Read request from L1 data cache	107
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x108
+Read request from L1 data cache	108
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x109
+Read request from L1 data cache	109
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x110
+Read request from L1 data cache	110
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x111
+Read request from L1 data cache	111
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x112
+Read request from L1 data cache	112
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x113
+Read request from L1 data cache	113
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x114
+Read request from L1 data cache	114
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x115
+Read request from L1 data cache	115
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x116
+Read request from L1 data cache	116
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x117
+Read request from L1 data cache	117
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x118
+Read request from L1 data cache	118
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x119
+Read request from L1 data cache	119
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x120
+Read request from L1 data cache	120
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x121
+Read request from L1 data cache	121
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x122
+Read request from L1 data cache	122
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 0	 Address : 0x123
+Read request from L1 data cache	123
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+L2 : HIT
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+Entering function cache_stats
+
+#################################################################
+#                                                               
+#   Number of Cache Reads   : 60                               
+#   Number of Cache Writes  : 0                               
+#   Number of Cache Hits    : 57                               
+#   Number of Cache Misses  : 3                               
+#   Cache Hit Ratio new     : 0.950000                               
+#                                                               
+################################################################
+
+
+Exiting function cache_stats
+
+Exiting function main

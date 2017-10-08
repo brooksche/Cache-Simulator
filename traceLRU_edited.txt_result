@@ -1,0 +1,2700 @@
+
+Entering function main
+
+Entering function init_cache
+
+Entering function init_cache
+SETS = 32768 
+ ROWS_IN_SET = 8 
+ 
+Exiting function init_cache
+
+command : 2	 Address : 0x10008e00
+Read request from L1 instruction cache	10008e00
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x80 
+set number = 0x238 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10008e00
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 10008e00, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x10208e00
+Read request from L1 instruction cache	10208e00
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x81 
+set number = 0x238 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10208e00
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 10208e00, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x10408e00
+Read request from L1 instruction cache	10408e00
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x82 
+set number = 0x238 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10408e00
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 10408e00, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x10608e00
+Read request from L1 instruction cache	10608e00
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x83 
+set number = 0x238 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10608e00
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 10608e00, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x10808e00
+Read request from L1 instruction cache	10808e00
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x84 
+set number = 0x238 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10808e00
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 10808e00, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x10a08e00
+Read request from L1 instruction cache	10a08e00
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x85 
+set number = 0x238 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10a08e00
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 10a08e00, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x10c08e00
+Read request from L1 instruction cache	10c08e00
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x86 
+set number = 0x238 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10c08e00
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HITM 
+BusOp: READ, Address: 10c08e00, Snoop Result: HITM
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x10e08e00
+Read request from L1 instruction cache	10e08e00
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x87 
+set number = 0x238 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10e08e00
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HITM 
+BusOp: READ, Address: 10e08e00, Snoop Result: HITM
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x10000000
+Print contents and state of each valid cache line	10000000
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 7 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 129 
+(set = 568 row = 1) cache line lru_value = 6 
+(set = 568 row = 1) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 5 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 131 
+(set = 568 row = 3) cache line lru_value = 4 
+(set = 568 row = 3) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 3 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 2 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 1 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 0 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x10008e00
+Read request from L1 instruction cache	10008e00
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x80 
+set number = 0x238 
+tag bits inside for  = 0x80
+cache.ln tag bits inside for = 0x80
+L2 : HIT
+
+ L2 cache : HIT	10008e00
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 0 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 129 
+(set = 568 row = 1) cache line lru_value = 7 
+(set = 568 row = 1) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 6 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 131 
+(set = 568 row = 3) cache line lru_value = 5 
+(set = 568 row = 3) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 4 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 3 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 2 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 1 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x10408e3f
+Read request from L1 instruction cache	10408e3f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x82 
+set number = 0x238 
+tag bits inside for  = 0x82
+cache.ln tag bits inside for = 0x82
+L2 : HIT
+
+ L2 cache : HIT	10408e3f
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 1 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 129 
+(set = 568 row = 1) cache line lru_value = 7 
+(set = 568 row = 1) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 0 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 131 
+(set = 568 row = 3) cache line lru_value = 6 
+(set = 568 row = 3) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 4 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 3 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 2 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x10a08e3f
+Read request from L1 instruction cache	10a08e3f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x85 
+set number = 0x238 
+tag bits inside for  = 0x85
+cache.ln tag bits inside for = 0x85
+L2 : HIT
+
+ L2 cache : HIT	10a08e3f
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 2 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 129 
+(set = 568 row = 1) cache line lru_value = 7 
+(set = 568 row = 1) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 1 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 131 
+(set = 568 row = 3) cache line lru_value = 6 
+(set = 568 row = 3) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 0 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 4 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 3 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x10e08e3f
+Read request from L1 instruction cache	10e08e3f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x87 
+set number = 0x238 
+tag bits inside for  = 0x87
+cache.ln tag bits inside for = 0x87
+L2 : HIT
+
+ L2 cache : HIT	10e08e3f
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 3 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 129 
+(set = 568 row = 1) cache line lru_value = 7 
+(set = 568 row = 1) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 2 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 131 
+(set = 568 row = 3) cache line lru_value = 6 
+(set = 568 row = 3) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 1 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 4 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 0 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x10808e3f
+Read request from L1 instruction cache	10808e3f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x84 
+set number = 0x238 
+tag bits inside for  = 0x84
+cache.ln tag bits inside for = 0x84
+L2 : HIT
+
+ L2 cache : HIT	10808e3f
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 4 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 129 
+(set = 568 row = 1) cache line lru_value = 7 
+(set = 568 row = 1) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 3 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 131 
+(set = 568 row = 3) cache line lru_value = 6 
+(set = 568 row = 3) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 0 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 2 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 5 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 1 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x10a08e3f
+Read request from L1 instruction cache	10a08e3f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x85 
+set number = 0x238 
+tag bits inside for  = 0x85
+cache.ln tag bits inside for = 0x85
+L2 : HIT
+
+ L2 cache : HIT	10a08e3f
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 4 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 129 
+(set = 568 row = 1) cache line lru_value = 7 
+(set = 568 row = 1) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 3 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 131 
+(set = 568 row = 3) cache line lru_value = 6 
+(set = 568 row = 3) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 1 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 0 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 5 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 2 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x10c08e3f
+Read request from L1 instruction cache	10c08e3f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x86 
+set number = 0x238 
+tag bits inside for  = 0x86
+cache.ln tag bits inside for = 0x86
+L2 : HIT
+
+ L2 cache : HIT	10c08e3f
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 5 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 129 
+(set = 568 row = 1) cache line lru_value = 7 
+(set = 568 row = 1) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 4 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 131 
+(set = 568 row = 3) cache line lru_value = 6 
+(set = 568 row = 3) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 2 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 1 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 0 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 3 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x10e08e3f
+Read request from L1 instruction cache	10e08e3f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x87 
+set number = 0x238 
+tag bits inside for  = 0x87
+cache.ln tag bits inside for = 0x87
+L2 : HIT
+
+ L2 cache : HIT	10e08e3f
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 5 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 129 
+(set = 568 row = 1) cache line lru_value = 7 
+(set = 568 row = 1) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 4 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 131 
+(set = 568 row = 3) cache line lru_value = 6 
+(set = 568 row = 3) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 3 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 2 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 1 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 0 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x10e08e3f
+Read request from L1 instruction cache	10e08e3f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x87 
+set number = 0x238 
+tag bits inside for  = 0x87
+cache.ln tag bits inside for = 0x87
+L2 : HIT
+
+ L2 cache : HIT	10e08e3f
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 5 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 129 
+(set = 568 row = 1) cache line lru_value = 7 
+(set = 568 row = 1) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 4 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 131 
+(set = 568 row = 3) cache line lru_value = 6 
+(set = 568 row = 3) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 3 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 2 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 1 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 0 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x1408e00
+Read request from L1 instruction cache	1408e00
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0xa 
+set number = 0x238 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	1408e00
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+NOHIT 
+BusOp: READ, Address: 1408e00, Snoop Result: NOHIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+No space in set to add new addr entry, so doing eviction
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+No space in set to add new addr entry, so doing eviction
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+Exiting function add_cache_line
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 6 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 10 
+(set = 568 row = 1) cache line lru_value = 0 
+(set = 568 row = 1) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 5 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 10 
+(set = 568 row = 3) cache line lru_value = 7 
+(set = 568 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 4 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 3 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 2 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 1 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x1a08e00
+Read request from L1 instruction cache	1a08e00
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0xd 
+set number = 0x238 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	1a08e00
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+NOHIT 
+BusOp: READ, Address: 1a08e00, Snoop Result: NOHIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+No space in set to add new addr entry, so doing eviction
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+Exiting function add_cache_line
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 7 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 10 
+(set = 568 row = 1) cache line lru_value = 1 
+(set = 568 row = 1) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 6 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 13 
+(set = 568 row = 3) cache line lru_value = 0 
+(set = 568 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 4 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 3 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 2 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x1000f01f
+Read request from L1 instruction cache	1000f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x80 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	1000f01f
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 1000f01f, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x1020f01f
+Read request from L1 instruction cache	1020f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x81 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	1020f01f
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 1020f01f, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x1040f01f
+Read request from L1 instruction cache	1040f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x82 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	1040f01f
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 1040f01f, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 1	 Address : 0x1080f01f
+Write request from L1 data cache	1080f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x84 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	1080f01f
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: RWIM, Address: 1080f01f, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 7 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 10 
+(set = 568 row = 1) cache line lru_value = 1 
+(set = 568 row = 1) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 6 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 13 
+(set = 568 row = 3) cache line lru_value = 0 
+(set = 568 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 4 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 3 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 2 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 0) cache line tag_value 128 
+(set = 960 row = 0) cache line lru_value = 3 
+(set = 960 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 1) cache line tag_value 129 
+(set = 960 row = 1) cache line lru_value = 2 
+(set = 960 row = 1) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 2) cache line tag_value 130 
+(set = 960 row = 2) cache line lru_value = 1 
+(set = 960 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 3) cache line tag_value 132 
+(set = 960 row = 3) cache line lru_value = 0 
+(set = 960 row = 3) cache line mesi_value = MODIFIED 
+
+
+Exiting function print_cache
+
+command : 1	 Address : 0x1020f01f
+Write request from L1 data cache	1020f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x81 
+set number = 0x3c0 
+tag bits inside for  = 0x81
+cache.ln tag bits inside for = 0x81
+L2 : HIT
+
+ L2 cache : HIT	1020f01f
+Entering function mesi_protocol
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+ INVALIDATE, Address: 1020f01f
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 7 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 10 
+(set = 568 row = 1) cache line lru_value = 1 
+(set = 568 row = 1) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 6 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 13 
+(set = 568 row = 3) cache line lru_value = 0 
+(set = 568 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 4 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 3 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 2 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 0) cache line tag_value 128 
+(set = 960 row = 0) cache line lru_value = 3 
+(set = 960 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 1) cache line tag_value 129 
+(set = 960 row = 1) cache line lru_value = 0 
+(set = 960 row = 1) cache line mesi_value = MODIFIED 
+
+
+(set = 960 row = 2) cache line tag_value 130 
+(set = 960 row = 2) cache line lru_value = 2 
+(set = 960 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 3) cache line tag_value 132 
+(set = 960 row = 3) cache line lru_value = 1 
+(set = 960 row = 3) cache line mesi_value = MODIFIED 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x1060f01f
+Read request from L1 instruction cache	1060f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x83 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	1060f01f
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 1060f01f, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x10a0f01f
+Read request from L1 instruction cache	10a0f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x85 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10a0f01f
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 10a0f01f, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x10c0f01f
+Read request from L1 instruction cache	10c0f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x86 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10c0f01f
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HITM 
+BusOp: READ, Address: 10c0f01f, Snoop Result: HITM
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x101a0f01f
+Read request from L1 instruction cache	101a0f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0xd 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	101a0f01f
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+NOHIT 
+BusOp: READ, Address: 101a0f01f, Snoop Result: NOHIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 7 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 10 
+(set = 568 row = 1) cache line lru_value = 1 
+(set = 568 row = 1) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 6 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 13 
+(set = 568 row = 3) cache line lru_value = 0 
+(set = 568 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 4 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 3 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 2 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 0) cache line tag_value 128 
+(set = 960 row = 0) cache line lru_value = 7 
+(set = 960 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 1) cache line tag_value 129 
+(set = 960 row = 1) cache line lru_value = 4 
+(set = 960 row = 1) cache line mesi_value = MODIFIED 
+
+
+(set = 960 row = 2) cache line tag_value 130 
+(set = 960 row = 2) cache line lru_value = 6 
+(set = 960 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 3) cache line tag_value 132 
+(set = 960 row = 3) cache line lru_value = 5 
+(set = 960 row = 3) cache line mesi_value = MODIFIED 
+
+
+(set = 960 row = 4) cache line tag_value 131 
+(set = 960 row = 4) cache line lru_value = 3 
+(set = 960 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 5) cache line tag_value 133 
+(set = 960 row = 5) cache line lru_value = 2 
+(set = 960 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 6) cache line tag_value 134 
+(set = 960 row = 6) cache line lru_value = 1 
+(set = 960 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 7) cache line tag_value 13 
+(set = 960 row = 7) cache line lru_value = 0 
+(set = 960 row = 7) cache line mesi_value = EXCLUSIVE 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x10a0f01f
+Read request from L1 instruction cache	10a0f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x85 
+set number = 0x3c0 
+tag bits inside for  = 0x85
+cache.ln tag bits inside for = 0x85
+L2 : HIT
+
+ L2 cache : HIT	10a0f01f
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 2	 Address : 0x10e0f014
+Read request from L1 instruction cache	10e0f014
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x87 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10e0f014
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HITM 
+BusOp: READ, Address: 10e0f014, Snoop Result: HITM
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+No space in set to add new addr entry, so doing eviction
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+No space in set to add new addr entry, so doing eviction
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+Exiting function add_cache_line
+
+command : 2	 Address : 0x1040f01f
+Read request from L1 instruction cache	1040f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x82 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	1040f01f
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: READ, Address: 1040f01f, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+No space in set to add new addr entry, so doing eviction
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+No space in set to add new addr entry, so doing eviction
+Write back to memory Address: 1f 
+
+Entering function MessageToL1Cache
+L1: WRITE 0x1040f01f 
+
+Exiting function MessageToL1Cache
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+Exiting function add_cache_line
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 7 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 10 
+(set = 568 row = 1) cache line lru_value = 1 
+(set = 568 row = 1) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 6 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 13 
+(set = 568 row = 3) cache line lru_value = 0 
+(set = 568 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 4 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 3 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 2 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 0) cache line tag_value 135 
+(set = 960 row = 0) cache line lru_value = 1 
+(set = 960 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 1) cache line tag_value 129 
+(set = 960 row = 1) cache line lru_value = 6 
+(set = 960 row = 1) cache line mesi_value = MODIFIED 
+
+
+(set = 960 row = 2) cache line tag_value 130 
+(set = 960 row = 2) cache line lru_value = 0 
+(set = 960 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 3) cache line tag_value 130 
+(set = 960 row = 3) cache line lru_value = 7 
+(set = 960 row = 3) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 4) cache line tag_value 131 
+(set = 960 row = 4) cache line lru_value = 5 
+(set = 960 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 5) cache line tag_value 133 
+(set = 960 row = 5) cache line lru_value = 2 
+(set = 960 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 6) cache line tag_value 134 
+(set = 960 row = 6) cache line lru_value = 4 
+(set = 960 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 7) cache line tag_value 13 
+(set = 960 row = 7) cache line lru_value = 3 
+(set = 960 row = 7) cache line mesi_value = EXCLUSIVE 
+
+
+Exiting function print_cache
+
+command : 2	 Address : 0x10180f01f
+Read request from L1 instruction cache	10180f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0xc 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	10180f01f
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+NOHIT 
+BusOp: READ, Address: 10180f01f, Snoop Result: NOHIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+No space in set to add new addr entry, so doing eviction
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+Exiting function add_cache_line
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 7 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 10 
+(set = 568 row = 1) cache line lru_value = 1 
+(set = 568 row = 1) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 6 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 13 
+(set = 568 row = 3) cache line lru_value = 0 
+(set = 568 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 4 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 3 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 2 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 0) cache line tag_value 135 
+(set = 960 row = 0) cache line lru_value = 2 
+(set = 960 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 1) cache line tag_value 129 
+(set = 960 row = 1) cache line lru_value = 7 
+(set = 960 row = 1) cache line mesi_value = MODIFIED 
+
+
+(set = 960 row = 2) cache line tag_value 130 
+(set = 960 row = 2) cache line lru_value = 1 
+(set = 960 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 3) cache line tag_value 12 
+(set = 960 row = 3) cache line lru_value = 0 
+(set = 960 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 960 row = 4) cache line tag_value 131 
+(set = 960 row = 4) cache line lru_value = 6 
+(set = 960 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 5) cache line tag_value 133 
+(set = 960 row = 5) cache line lru_value = 3 
+(set = 960 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 6) cache line tag_value 134 
+(set = 960 row = 6) cache line lru_value = 5 
+(set = 960 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 7) cache line tag_value 13 
+(set = 960 row = 7) cache line lru_value = 4 
+(set = 960 row = 7) cache line mesi_value = EXCLUSIVE 
+
+
+Exiting function print_cache
+
+command : 6	 Address : 0x1020f01f
+Snooped read with intent to modify	1020f01f
+Entering function check_in_cache_state
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+ Cache state  : 0
+
+Entering function PutSnoopResult
+SnoopResult: Address 1020f01f, Snoop Result: HITM
+
+Exiting function PutSnoopResult
+
+Entering function mesi_protocol
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Write back to memory Address: 1f 
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 7 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 10 
+(set = 568 row = 1) cache line lru_value = 1 
+(set = 568 row = 1) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 6 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 13 
+(set = 568 row = 3) cache line lru_value = 0 
+(set = 568 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 4 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 3 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 2 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 0) cache line tag_value 135 
+(set = 960 row = 0) cache line lru_value = 2 
+(set = 960 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 2) cache line tag_value 130 
+(set = 960 row = 2) cache line lru_value = 1 
+(set = 960 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 3) cache line tag_value 12 
+(set = 960 row = 3) cache line lru_value = 0 
+(set = 960 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 960 row = 4) cache line tag_value 131 
+(set = 960 row = 4) cache line lru_value = 6 
+(set = 960 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 5) cache line tag_value 133 
+(set = 960 row = 5) cache line lru_value = 3 
+(set = 960 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 6) cache line tag_value 134 
+(set = 960 row = 6) cache line lru_value = 5 
+(set = 960 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 7) cache line tag_value 13 
+(set = 960 row = 7) cache line lru_value = 4 
+(set = 960 row = 7) cache line mesi_value = EXCLUSIVE 
+
+
+Exiting function print_cache
+
+command : 1	 Address : 0x1020f01f
+Write request from L1 data cache	1020f01f
+Entering function check_in_cache
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+tag bits = 0x81 
+set number = 0x3c0 
+
+Exiting function check_in_cache
+
+ L2 cache : MISS	1020f01f
+Entering function BusOperation
+
+Entering function GetSnoopResult
+
+HIT 
+BusOp: RWIM, Address: 1020f01f, Snoop Result: HIT
+
+Exiting function BusOperation
+
+Entering function add_cache_line
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+Have space in set to add new addr entry
+
+Entering function update_lru
+
+Entering function get_tag_bits
+
+Exiting function get_tag_bits
+
+Entering function get_set_number
+
+Exiting function get_set_number
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 7 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 10 
+(set = 568 row = 1) cache line lru_value = 1 
+(set = 568 row = 1) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 6 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 13 
+(set = 568 row = 3) cache line lru_value = 0 
+(set = 568 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 4 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 3 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 2 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 0) cache line tag_value 135 
+(set = 960 row = 0) cache line lru_value = 3 
+(set = 960 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 1) cache line tag_value 129 
+(set = 960 row = 1) cache line lru_value = 0 
+(set = 960 row = 1) cache line mesi_value = MODIFIED 
+
+
+(set = 960 row = 2) cache line tag_value 130 
+(set = 960 row = 2) cache line lru_value = 2 
+(set = 960 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 3) cache line tag_value 12 
+(set = 960 row = 3) cache line lru_value = 1 
+(set = 960 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 960 row = 4) cache line tag_value 131 
+(set = 960 row = 4) cache line lru_value = 7 
+(set = 960 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 5) cache line tag_value 133 
+(set = 960 row = 5) cache line lru_value = 4 
+(set = 960 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 6) cache line tag_value 134 
+(set = 960 row = 6) cache line lru_value = 6 
+(set = 960 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 7) cache line tag_value 13 
+(set = 960 row = 7) cache line lru_value = 5 
+(set = 960 row = 7) cache line mesi_value = EXCLUSIVE 
+
+
+Exiting function print_cache
+
+command : 7	 Address : 0x0
+************************************************************************************************
+
+Print contents each non valid test line	addr : 0, operand : 7 
+
+************************************************************************************************
+
+command : 9	 Address : 0x0
+Print contents and state of each valid cache line	0
+Entering function print_cache
+
+Entering function print_cache
+
+(set = 568 row = 0) cache line tag_value 128 
+(set = 568 row = 0) cache line lru_value = 7 
+(set = 568 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 1) cache line tag_value 10 
+(set = 568 row = 1) cache line lru_value = 1 
+(set = 568 row = 1) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 2) cache line tag_value 130 
+(set = 568 row = 2) cache line lru_value = 6 
+(set = 568 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 3) cache line tag_value 13 
+(set = 568 row = 3) cache line lru_value = 0 
+(set = 568 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 568 row = 4) cache line tag_value 132 
+(set = 568 row = 4) cache line lru_value = 5 
+(set = 568 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 5) cache line tag_value 133 
+(set = 568 row = 5) cache line lru_value = 4 
+(set = 568 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 6) cache line tag_value 134 
+(set = 568 row = 6) cache line lru_value = 3 
+(set = 568 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 568 row = 7) cache line tag_value 135 
+(set = 568 row = 7) cache line lru_value = 2 
+(set = 568 row = 7) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 0) cache line tag_value 135 
+(set = 960 row = 0) cache line lru_value = 3 
+(set = 960 row = 0) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 1) cache line tag_value 129 
+(set = 960 row = 1) cache line lru_value = 0 
+(set = 960 row = 1) cache line mesi_value = MODIFIED 
+
+
+(set = 960 row = 2) cache line tag_value 130 
+(set = 960 row = 2) cache line lru_value = 2 
+(set = 960 row = 2) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 3) cache line tag_value 12 
+(set = 960 row = 3) cache line lru_value = 1 
+(set = 960 row = 3) cache line mesi_value = EXCLUSIVE 
+
+
+(set = 960 row = 4) cache line tag_value 131 
+(set = 960 row = 4) cache line lru_value = 7 
+(set = 960 row = 4) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 5) cache line tag_value 133 
+(set = 960 row = 5) cache line lru_value = 4 
+(set = 960 row = 5) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 6) cache line tag_value 134 
+(set = 960 row = 6) cache line lru_value = 6 
+(set = 960 row = 6) cache line mesi_value = SHARED 
+
+
+(set = 960 row = 7) cache line tag_value 13 
+(set = 960 row = 7) cache line lru_value = 5 
+(set = 960 row = 7) cache line mesi_value = EXCLUSIVE 
+
+
+Exiting function print_cache
+
+Entering function cache_stats
+
+#################################################################
+#                                                               
+#   Number of Cache Reads   : 30                               
+#   Number of Cache Writes  : 3                               
+#   Number of Cache Hits    : 11                               
+#   Number of Cache Misses  : 22                               
+#   Cache Hit Ratio         : 0.333333                               
+#                                                               
+################################################################
+
+
+Exiting function cache_stats
+
+Exiting function main

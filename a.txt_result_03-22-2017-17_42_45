@@ -1,0 +1,725 @@
+BusOp: READ, Address: fe00000, Snoop Result: NOHIT
+BusOp: READ, Address: 1000000, Snoop Result: HITM
+BusOp: READ, Address: 2000000, Snoop Result: HIT
+BusOp: READ, Address: 3000000, Snoop Result: HITM
+BusOp: READ, Address: 4000000, Snoop Result: HIT
+BusOp: READ, Address: 5000000, Snoop Result: HITM
+BusOp: READ, Address: 6000000, Snoop Result: HIT
+BusOp: READ, Address: 7000000, Snoop Result: HITM
+##########################################################################
+   All Valid rows in set ( 0 or 0x0 ) 
+
+   Set = 0 ( 0x0 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 127 ( 0x7f )
+   Lru_value = 7 ( 0x7 )
+   mesi_value = EXCLUSIVE 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 1 ( 0x1 ) 
+   Tag_value = 8 ( 0x8 )
+   Lru_value = 6 ( 0x6 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 4 ( 0x4 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 4 ( 0x4 ) 
+   Tag_value = 32 ( 0x20 )
+   Lru_value = 3 ( 0x3 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 48 ( 0x30 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = SHARED 
+
+BusOp: READ, Address: 0, Snoop Result: HIT
+BusOp: READ, Address: 1000000, Snoop Result: HITM
+BusOp: READ, Address: 2000000, Snoop Result: HIT
+BusOp: READ, Address: 3000000, Snoop Result: HITM
+BusOp: READ, Address: 4000000, Snoop Result: HIT
+BusOp: READ, Address: 5000000, Snoop Result: HITM
+##########################################################################
+   All Valid rows in set ( 0 or 0x0 ) 
+
+   Set = 0 ( 0x0 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 0 ( 0x0 )
+   Lru_value = 6 ( 0x6 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 1 ( 0x1 ) 
+   Tag_value = 8 ( 0x8 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 4 ( 0x4 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 3 ( 0x3 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 4 ( 0x4 ) 
+   Tag_value = 32 ( 0x20 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 7 ( 0x7 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = SHARED 
+
+BusOp: READ, Address: 8000000, Snoop Result: HIT
+##########################################################################
+   All Valid rows in set ( 0 or 0x0 ) 
+
+   Set = 0 ( 0x0 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 0 ( 0x0 )
+   Lru_value = 7 ( 0x7 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 1 ( 0x1 ) 
+   Tag_value = 8 ( 0x8 )
+   Lru_value = 6 ( 0x6 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 4 ( 0x4 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 4 ( 0x4 ) 
+   Tag_value = 32 ( 0x20 )
+   Lru_value = 3 ( 0x3 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 64 ( 0x40 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = SHARED 
+
+BusOp: READ, Address: 0, Snoop Result: HIT
+BusOp: READ, Address: 1000000, Snoop Result: HITM
+BusOp: READ, Address: 2000000, Snoop Result: HIT
+BusOp: READ, Address: 3000000, Snoop Result: HITM
+BusOp: READ, Address: 4000000, Snoop Result: HIT
+BusOp: READ, Address: 5000000, Snoop Result: HITM
+BusOp: READ, Address: 6000000, Snoop Result: HIT
+BusOp: READ, Address: 7000000, Snoop Result: HITM
+##########################################################################
+   All Valid rows in set ( 0 or 0x0 ) 
+
+   Set = 0 ( 0x0 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 0 ( 0x0 )
+   Lru_value = 7 ( 0x7 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 1 ( 0x1 ) 
+   Tag_value = 8 ( 0x8 )
+   Lru_value = 6 ( 0x6 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 4 ( 0x4 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 4 ( 0x4 ) 
+   Tag_value = 32 ( 0x20 )
+   Lru_value = 3 ( 0x3 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 48 ( 0x30 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = SHARED 
+
+##########################################################################
+   All Valid rows in set ( 0 or 0x0 ) 
+
+   Set = 0 ( 0x0 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 0 ( 0x0 )
+   Lru_value = 6 ( 0x6 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 1 ( 0x1 ) 
+   Tag_value = 8 ( 0x8 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 4 ( 0x4 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 3 ( 0x3 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 4 ( 0x4 ) 
+   Tag_value = 32 ( 0x20 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 48 ( 0x30 )
+   Lru_value = 7 ( 0x7 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = SHARED 
+
+BusOp: READ, Address: 8000000, Snoop Result: HIT
+##########################################################################
+   All Valid rows in set ( 0 or 0x0 ) 
+
+   Set = 0 ( 0x0 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 0 ( 0x0 )
+   Lru_value = 7 ( 0x7 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 1 ( 0x1 ) 
+   Tag_value = 8 ( 0x8 )
+   Lru_value = 6 ( 0x6 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 4 ( 0x4 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 4 ( 0x4 ) 
+   Tag_value = 32 ( 0x20 )
+   Lru_value = 3 ( 0x3 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 64 ( 0x40 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = SHARED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = SHARED 
+
+BusOp: RWIM, Address: 0, Snoop Result: HIT
+BusOp: RWIM, Address: 1000000, Snoop Result: HITM
+BusOp: RWIM, Address: 2000000, Snoop Result: HIT
+BusOp: RWIM, Address: 3000000, Snoop Result: HITM
+BusOp: RWIM, Address: 4000000, Snoop Result: HIT
+BusOp: RWIM, Address: 5000000, Snoop Result: HITM
+BusOp: RWIM, Address: 6000000, Snoop Result: HIT
+BusOp: RWIM, Address: 7000000, Snoop Result: HITM
+##########################################################################
+   All Valid rows in set ( 0 or 0x0 ) 
+
+   Set = 0 ( 0x0 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 0 ( 0x0 )
+   Lru_value = 7 ( 0x7 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 1 ( 0x1 ) 
+   Tag_value = 8 ( 0x8 )
+   Lru_value = 6 ( 0x6 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 4 ( 0x4 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 4 ( 0x4 ) 
+   Tag_value = 32 ( 0x20 )
+   Lru_value = 3 ( 0x3 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 48 ( 0x30 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = MODIFIED 
+
+##########################################################################
+   All Valid rows in set ( 0 or 0x0 ) 
+
+   Set = 0 ( 0x0 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 0 ( 0x0 )
+   Lru_value = 6 ( 0x6 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 1 ( 0x1 ) 
+   Tag_value = 8 ( 0x8 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 4 ( 0x4 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 3 ( 0x3 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 4 ( 0x4 ) 
+   Tag_value = 32 ( 0x20 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 48 ( 0x30 )
+   Lru_value = 7 ( 0x7 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = MODIFIED 
+
+BusOp: RWIM, Address: 8000000, Snoop Result: HIT
+Write back to memory Address: 0x6000000 
+L1: WRITE 0x6000000 
+##########################################################################
+   All Valid rows in set ( 0 or 0x0 ) 
+
+   Set = 0 ( 0x0 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 0 ( 0x0 )
+   Lru_value = 7 ( 0x7 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 1 ( 0x1 ) 
+   Tag_value = 8 ( 0x8 )
+   Lru_value = 6 ( 0x6 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 4 ( 0x4 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 4 ( 0x4 ) 
+   Tag_value = 32 ( 0x20 )
+   Lru_value = 3 ( 0x3 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 64 ( 0x40 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = MODIFIED 
+
+
+   Set = 0 ( 0x0 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = MODIFIED 
+
+BusOp: READ, Address: 4f, Snoop Result: HIT
+BusOp: READ, Address: 1000040, Snoop Result: HITM
+BusOp: READ, Address: 2000040, Snoop Result: HIT
+BusOp: READ, Address: 3000040, Snoop Result: HITM
+BusOp: READ, Address: 4000040, Snoop Result: HIT
+BusOp: READ, Address: 5000040, Snoop Result: HITM
+BusOp: READ, Address: 6000040, Snoop Result: HIT
+BusOp: READ, Address: 7000040, Snoop Result: HITM
+##########################################################################
+   All Valid rows in set ( 1 or 0x1 ) 
+
+   Set = 1 ( 0x1 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 0 ( 0x0 )
+   Lru_value = 7 ( 0x7 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 1 ( 0x1 ) 
+   Tag_value = 8 ( 0x8 )
+   Lru_value = 6 ( 0x6 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 4 ( 0x4 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 4 ( 0x4 ) 
+   Tag_value = 32 ( 0x20 )
+   Lru_value = 3 ( 0x3 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 48 ( 0x30 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = SHARED 
+
+ INVALIDATE, Address: 100004a
+SnoopResult: Address 2000040, Snoop Result: HIT
+SnoopResult: Address 4000040, Snoop Result: HIT
+##########################################################################
+   All Valid rows in set ( 1 or 0x1 ) 
+
+   Set = 1 ( 0x1 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 0 ( 0x0 )
+   Lru_value = 7 ( 0x7 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 4 ( 0x4 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 48 ( 0x30 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = SHARED 
+
+##########################################################################
+   All Valid rows in set ( 1 or 0x1 ) 
+
+   Set = 1 ( 0x1 ) 
+   Row = 0 ( 0x0 ) 
+   Tag_value = 0 ( 0x0 )
+   Lru_value = 0 ( 0x0 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 2 ( 0x2 ) 
+   Tag_value = 16 ( 0x10 )
+   Lru_value = 6 ( 0x6 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 3 ( 0x3 ) 
+   Tag_value = 24 ( 0x18 )
+   Lru_value = 5 ( 0x5 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 5 ( 0x5 ) 
+   Tag_value = 40 ( 0x28 )
+   Lru_value = 3 ( 0x3 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 6 ( 0x6 ) 
+   Tag_value = 48 ( 0x30 )
+   Lru_value = 2 ( 0x2 )
+   mesi_value = SHARED 
+
+
+   Set = 1 ( 0x1 ) 
+   Row = 7 ( 0x7 ) 
+   Tag_value = 56 ( 0x38 )
+   Lru_value = 1 ( 0x1 )
+   mesi_value = SHARED 
+
+
+#################################################################
+#                                                               
+#   Number of Cache Reads   : 9                               
+#   Number of Cache Writes  : 0                               
+#   Number of Cache Hits    : 1                               
+#   Number of Cache Misses  : 8                               
+#   Cache Hit Ratio         : 0.111111                               
+#                                                               
+################################################################
+
